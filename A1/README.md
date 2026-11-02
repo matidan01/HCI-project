@@ -2,7 +2,7 @@
 
 Human Computer Interaction, A.A. 2026/27 – Università di Bologna
 
-**Gruppo:** Matilde D'Antino, Gaia Mazzoni, Alessandro Torelli, Matteo Susca
+**Gruppo:** Matilde D'Antino, Gaia Mazzoni, Matteo Susca, Alessandro Torelli
 **Tema:** Smart Cities & Urban Life
 **Dominio:** la socialità urbana temporanea: come chi si trova in una città per
 poco tempo accede alla sua vita sociale e come interagisce con chi ci abita.
